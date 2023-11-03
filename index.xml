@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics Portfolio on Marwan Elhelaly</title>
+    <link>https://marwanh7.github.io/My_Portfolio_2/</link>
+    <description>Recent content in Data Analytics Portfolio on Marwan Elhelaly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Oct 2022 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://marwanh7.github.io/My_Portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Churn Prediction (Classification Problem) </title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_2/</link>
+      <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_2/</guid>
+      <description>Introduction Customer churn is a problem faced by many industries, including the telecom industry, gaming industry, SaaS, retail, banking, and more. For context, customer churn refers to when a person stops using a company&amp;rsquo;s services or products and ceases to be a customer.
+Problem Statement A telecommunications company (hereby &amp;ldquo;Telco&amp;rdquo;) is experiencing a massive customer churn rate of nearly 27%. This level of churn may be enough to bankrupt a real-life company.</description>
+    </item>
+    <item>
+      <title> Flight delay prediction (Regression problem) </title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_3/</link>
+      <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_3/</guid>
+      <description>Introduction Predicting flights delay has always been an interesting and challenging topic for Data Scientists. Since the problem of flight delays cost both airplane operations and consumer alot of money and time, flight delay prediction plays a key role in the aviation industry.There is much research that has been tried to develop and deploy different Machine Learning models to increase the accuracy of prediction. In this one-week Midterm Project, our goal is to take a try at this challenging problem using the data science tools we learned and practiced throughout the first half of our bootcamp.</description>
+    </item>
+    <item>
+      <title>Airbnb Pelimnary Dashboard (Tableau) </title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</link>
+      <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</guid>
+      <description>Problem Statement The client is considering investing in an Airbnb property and wishes to use historical data to make informed decisions regarding the following requirements: Location Number of bedrooms and bathrooms House price and demand Optimal weeks, months, and quarters for renting, whether for personal use or during the summer. Project Workflow Create a minimum viable product Tableau dashboard to provide the client with an initial overview of the requirements. Present the work to the client, address their questions, and iterate on the product as necessary.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/about/</guid>
+      <description>Bachelor of Applied Science - BASc, Electrical Engineering, Power &amp;amp; Sustainable Energy, E.Management &amp;amp; Entrepreneurship (COOP) A curious and resourceful Electrical Engineer with a business minor and recent graduate in Data Science. During my undergraduate internships, I gained experience in electrical, software, mechanical design, problem-solving, research, and sales. My more recent interest lies in time series analysis and forecasting, driven by my fascination with the stock market, sales &amp;amp; revenue, and energy supply and demand—areas that can all be modeled as time series signals.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/contact/</guid>
+      <description>You can Follow &amp;amp; Reach out to me at any of the links below
+Platform URL LinkedIn: https://www.linkedin.com/in/marwan-elhelaly/ Github: https://github.com/MarwanH7 Email: maroelhelali@hotmail.com Medium: https://medium.com/@maroelhelali Instagram: https://www.instagram.com/marwan.h97/ </description>
+    </item>
+  </channel>
+</rss>
