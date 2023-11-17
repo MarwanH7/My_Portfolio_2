@@ -9,6 +9,21 @@
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://marwanh7.github.io/My_Portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Covid-19 Global Impact Analysis Dashboard </title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_4/</link>
+      <pubDate>Tue, 14 Nov 2023 11:25:05 -0400</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_4/</guid>
+      <description>Problem Statement The COVID-19 Impact Analysis Dashboard project aims to assess the global impact of the pandemic through visualizations of key metrics like infection rates, deaths, and vaccination rates. It maps these metrics across continents and countries to pinpoint the most affected regions. The project evolves in three phases:
+Project Workflow Minimal Viable Product (MVP): Manual data handling and a basic Tableau dashboard. Automation Enhancement: Automated data pipelines and dashboard updates.</description>
+    </item>
+    <item>
+      <title>Airbnb Pelimnary Dashboard (Tableau) </title>
+      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</link>
+      <pubDate>Sat, 14 Oct 2023 11:25:05 -0400</pubDate>
+      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</guid>
+      <description>Problem Statement The client is considering investing in an Airbnb property and wishes to use historical data to make informed decisions regarding the following requirements: Location Number of bedrooms and bathrooms House price and demand Optimal weeks, months, and quarters for renting, whether for personal use or during the summer. Project Workflow Create a minimum viable product Tableau dashboard to provide the client with an initial overview of the requirements. Present the work to the client, address their questions, and iterate on the product as necessary.</description>
+    </item>
+    <item>
       <title> Churn Prediction (Classification Problem) </title>
       <link>https://marwanh7.github.io/My_Portfolio_2/post/project_2/</link>
       <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
@@ -22,13 +37,6 @@ Problem Statement A telecommunications company (hereby &amp;ldquo;Telco&amp;rdqu
       <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
       <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_3/</guid>
       <description>Introduction Predicting flights delay has always been an interesting and challenging topic for Data Scientists. Since the problem of flight delays cost both airplane operations and consumer alot of money and time, flight delay prediction plays a key role in the aviation industry.There is much research that has been tried to develop and deploy different Machine Learning models to increase the accuracy of prediction. In this one-week Midterm Project, our goal is to take a try at this challenging problem using the data science tools we learned and practiced throughout the first half of our bootcamp.</description>
-    </item>
-    <item>
-      <title>Airbnb Pelimnary Dashboard (Tableau) </title>
-      <link>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</link>
-      <pubDate>Fri, 14 Oct 2022 11:25:05 -0400</pubDate>
-      <guid>https://marwanh7.github.io/My_Portfolio_2/post/project_1/</guid>
-      <description>Problem Statement The client is considering investing in an Airbnb property and wishes to use historical data to make informed decisions regarding the following requirements: Location Number of bedrooms and bathrooms House price and demand Optimal weeks, months, and quarters for renting, whether for personal use or during the summer. Project Workflow Create a minimum viable product Tableau dashboard to provide the client with an initial overview of the requirements. Present the work to the client, address their questions, and iterate on the product as necessary.</description>
     </item>
   </channel>
 </rss>
